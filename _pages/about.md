@@ -41,9 +41,19 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 </div>
 </div>
 
-- **Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.**  
-  Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang  
-  Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MSN 2023</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.** [📄](https://liyix.github.io/images/aamas24.pdf)
+
+Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang.
+
+Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).
+
+- Improved the distributed tree search algorithm by upstream planning to automatic extract sub-goals;
+- Introduced an expectation alignment technique to extend the algorithm to non-communication scenarios.
+</div>
+</div>
   
 - **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
   **Yixuan Li**, Qian Che, Fengchen Wang, Yifeng Zhou, Chuanyou Li, Wanyuan Wang*  
