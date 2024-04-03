@@ -29,33 +29,35 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2024</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips. [📄](https://liyix.github.io/images/aamas24.pdf)
+**Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips.** [📄](https://liyix.github.io/images/aamas24.pdf)
 
 **Yixuan Li**, Wanyuan Wang*, Weiyi Xu, Yanchen Deng, Weiwei Wu.
 
 [Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS’24).](https://www.aamas2024-conference.auckland.ac.nz/)
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- For the global path planning problem, designed a novel modeling approach: the Path-Query Factor Graph;
+- leveraged the properties of the problem to propose a hybrid pruning technique for the Max-Sum algorithm;
+- developed an end-to-end, real-time response framework based on the factor graph neural networks 
 </div>
 </div>
 
-- Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.  
+- **Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.**  
   Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang  
   Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).  
   
-- A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.  
+- **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
   **Yixuan Li**, Qian Che, Fengchen Wang, Yifeng Zhou, Chuanyou Li, Wanyuan Wang*  
   The 6th IEEE International Conference on Unmanned Systems (ICUS'23).  
 
-- Explicit Coordination Based Multi-Agent Reinforcement Learning for Intelligent Traffic Signal Control.  
+- **Explicit Coordination Based Multi-Agent Reinforcement Learning for Intelligent Traffic Signal Control.**  
   **Yixuan Li**, Qian Che, Yifeng Zhou, Wanyuan Wang*, Yichuan Jiang.  
   The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
 
-- A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.  
+- **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
   **Yixuan Li**, Qian Che, Fengchen Wang, Huiying Zhang, Wanyuan Wang*, Yichuan Jiang.   
   The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
 
-- A Method for Fault Root Cause Localization Based on Network Topology and Real-Time Alarms.  
+- **A Method for Fault Root Cause Localization Based on Network Topology and Real-Time Alarms.**  
   Kang Xu, **Yixuan Li**, Haiqi Liu, Xiaowei Zhang, Ning Ye, Ruchuan Wang.  
   China Patent No. CN112181758B, Granted on 2023.
 
