@@ -41,12 +41,23 @@ Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm 
 
 - Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.  
   Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang  
-  Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).
+  Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).  
   
-- A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization. 
-  Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang  
-  Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).
+- A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.  
+  **Yixuan Li**, Qian Che, Fengchen Wang, Yifeng Zhou, Chuanyou Li, Wanyuan Wang*  
+  The 6th IEEE International Conference on Unmanned Systems (ICUS'23).  
 
+- Explicit Coordination Based Multi-Agent Reinforcement Learning for Intelligent Traffic Signal Control.  
+  **Yixuan Li**, Qian Che, Yifeng Zhou, Wanyuan Wang*, Yichuan Jiang.  
+  The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
+
+- A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.  
+  **Yixuan Li**, Qian Che, Fengchen Wang, Huiying Zhang, Wanyuan Wang*, Yichuan Jiang.   
+  The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
+
+- A Method for Fault Root Cause Localization Based on Network Topology and Real-Time Alarms.  
+  Kang Xu, **Yixuan Li**, Haiqi Liu, Xiaowei Zhang, Ning Ye, Ruchuan Wang.  
+  China Patent No. CN112181758B, Granted on 2023.
 
 # 🎖 Honors and Awards
 - *2023.11* Southeast University, Second Prize Scholarship. 
