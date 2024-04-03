@@ -39,9 +39,14 @@ Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm 
 </div>
 </div>
 
-- Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.
-  Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang}
+- Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.  
+  Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang  
   Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).
+  
+- A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization. 
+  Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang  
+  Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).
+
 
 # 🎖 Honors and Awards
 - *2023.11* Southeast University, Second Prize Scholarship. 
