@@ -26,12 +26,12 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2024</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips.
 
-**Yixuan Li**, Weiyi Xu, Yanchen Deng, Weiwei Wu, Wanyuan Wang*.
+**Yixuan Li**, Wanyuan Wang*, Weiyi Xu, Yanchen Deng, Weiwei Wu.
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
@@ -44,8 +44,8 @@ Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm 
 - *2023.07* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.06 - now*, Department of Computer Science and Engineering, Southeast University. 
-- *2018.09 - 2022.06*, Department of Computer Science, Nanjing University of Posts and Telecommunications. 
+- *2022.06 - now*, [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/). 
+- *2018.09 - 2022.06*, [Department of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). 
 
 # 📈 Projects
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
