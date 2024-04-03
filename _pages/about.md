@@ -33,6 +33,8 @@ Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm 
 
 **Yixuan Li**, Wanyuan Wang*, Weiyi Xu, Yanchen Deng, Weiwei Wu.
 
+[Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS’24).](https://www.aamas2024-conference.auckland.ac.nz/)
+
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
