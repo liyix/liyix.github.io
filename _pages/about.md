@@ -88,7 +88,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 # 📈 Projects
 - *2023.01 - 2023.07*, **Accelerating Large-Scale Supply Chain Problem Solving**  
   *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
-  - As the only student member, developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predited interges and identified active constraints to reduce the number of redundant constraints for rapid solution.
+  - As the only student member in the team, developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predited interges and identified active constraints to reduce the number of redundant constraints for rapid solution.
   - Reduced solution times to milliseconds on Huawei's supply chain scheduling instances while ensuring 99% fidelity.
   - By integrating the solver's warm start technology, achieved over ten times speed improvement on average compared to CPLEX under the same solution gap, winning the Huawei Spark Award - Value Prize.
 - *2022.09 - 2022.12*, **Optimization of Data Center Cooling System**  
