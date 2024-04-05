@@ -21,8 +21,8 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 One paper accepted by AAMAS'24 as a full paper. 
-- *2023.07*: &nbsp;🎉🎉 We win Huawei Spark Award for Challenging Problems! 
+- *2023.11*: &nbsp;🎉🎉 One paper accepted by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/accepted/papers/) as a full paper. 
+- *2023.07*: &nbsp;🎉🎉 We win [Huawei Spark Award](https://www.chaspark.com/#/questions/sparks/900903102629404672) for [Challenging Problems](https://www.chaspark.com/#/questions/820504253384495104?sub=820506234689818624)! 
 
 # 📝 Publications 
 
@@ -33,7 +33,7 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 
 **Yixuan Li**, Wanyuan Wang*, Weiyi Xu, Yanchen Deng, Weiwei Wu.
 
-[Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS’24).](https://www.aamas2024-conference.auckland.ac.nz/)
+Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems ([AAMAS’24](https://www.aamas2024-conference.auckland.ac.nz/)).
 
 - For the global path planning problem, designed a novel modeling approach: the Path-Query Factor Graph;
 - leveraged the properties of the problem to propose a hybrid pruning technique for the Max-Sum algorithm;
@@ -48,26 +48,26 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 
 Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang.
 
-Proceedings of the 19th International Conference on Mobility, Sensing and Networking (MSN'23).
+Proceedings of the 19th International Conference on Mobility, Sensing and Networking ([MSN'23](https://ieee-msn.org/2023/)).
 
 - Improved the distributed tree search algorithm by upstream planning to automatic extract sub-goals;
 - Introduced an expectation alignment technique to extend the algorithm to non-communication scenarios.
 </div>
 </div>
   
-- **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
+3. **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
   **Yixuan Li**, Qian Che, Fengchen Wang, Yifeng Zhou, Chuanyou Li, Wanyuan Wang*  
   The 6th IEEE International Conference on Unmanned Systems (ICUS'23).  
 
-- **Explicit Coordination Based Multi-Agent Reinforcement Learning for Intelligent Traffic Signal Control.**  
+4. **Explicit Coordination Based Multi-Agent Reinforcement Learning for Intelligent Traffic Signal Control.**  
   **Yixuan Li**, Qian Che, Yifeng Zhou, Wanyuan Wang*, Yichuan Jiang.  
   The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
 
-- **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
+5. **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
   **Yixuan Li**, Qian Che, Fengchen Wang, Huiying Zhang, Wanyuan Wang*, Yichuan Jiang.   
   The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
 
-- **A Method for Fault Root Cause Localization Based on Network Topology and Real-Time Alarms.**  
+6. **A Method for Fault Root Cause Localization Based on Network Topology and Real-Time Alarms.**  
   Kang Xu, **Yixuan Li**, Haiqi Liu, Xiaowei Zhang, Ning Ye, Ruchuan Wang.  
   China Patent No. CN112181758B, Granted on 2023.
 
@@ -80,8 +80,16 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 - *2018.09 - 2022.06*, [Department of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). 
 
 # 📈 Projects
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *Jun 2020 -- Jun 2022*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023.01 - 2023.07*, **Accelerating Large-Scale Supply Chain Problem Solving**
+  *Huawei Technologies Co., Ltd., Shenzhen, China*
+  - As the only student member, developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predited interges and identified active constraints to reduce the number of redundant constraints for rapid solution.
+  - Reduced solution times to milliseconds on Huawei's supply chain scheduling instances while ensuring 99\% fidelity.
+  - By integrating the solver's warm start technology, achieved over ten times speed improvement on average compared to CPLEX under the same solution gap, winning the Huawei Spark Award - Value Prize.
+- *2023.01 - 2023.07*, **Accelerating Large-Scale Supply Chain Problem Solving**
 
 # 💻 Internships
 - *2024.05 - 2024.05*, , China.
+
+# ⚽ Personality and Interests
+- Enjoy teamwork!
+- Love music and football, my favorite band is The Stone Roses.
