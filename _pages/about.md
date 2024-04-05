@@ -37,7 +37,7 @@ Proceedings of the 23rd International Conference on Autonomous Agents and Multia
 
 - For the global path planning problem, designed a novel modeling approach: the Path-Query Factor Graph;
 - leveraged the properties of the problem to propose a hybrid pruning technique for the Max-Sum algorithm;
-- developed an end-to-end, real-time response framework based on the factor graph neural networks 
+- developed an end-to-end, real-time response framework based on the factor graph neural networks. 
 </div>
 </div>
 
