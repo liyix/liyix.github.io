@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Artificial Intelligence, Reinforcement Learning, Operation Research and Multi-Agent Systems. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/). Here is my CV and chinese version. Contact me through [yixuanli@seu.edu.cn](yixuanli@seu.edu.cn).
+Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Artificial Intelligence, Reinforcement Learning, Operation Research and Multi-Agent Systems. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/). Here is my CV and the chinese version. Contact me through [yixuanli@seu.edu.cn](mailto:yixuanli@seu.edu.cn).
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 One paper accepted by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/accepted/papers/) as a full paper. 
+- *2023.11*: &nbsp;🎉🎉 One [paper](https://liyix.github.io/images/aamas24.pdf) accepted by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/accepted/papers/) as a full paper. 
 - *2023.07*: &nbsp;🎉🎉 We win [Huawei Spark Award](https://www.chaspark.com/#/questions/sparks/900903102629404672) for [Challenging Problems](https://www.chaspark.com/#/questions/820504253384495104?sub=820506234689818624)! 
 
 # 📝 Publications 
