@@ -410,3 +410,15 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+
+/* 自定义超链接样式 */
+a {
+    color: #007bff; /* 链接颜色 */
+    text-decoration: none; /* 去除下划线 */
+    
+    &:hover {
+        text-decoration: underline; /* 鼠标悬停时添加下划线 */
+        color: #0056b3; /* 鼠标悬停时的链接颜色 */
+    }
+}
