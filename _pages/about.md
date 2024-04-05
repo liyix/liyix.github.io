@@ -29,7 +29,7 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2024</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-1. **Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips.** [📄](https://liyix.github.io/images/aamas24.pdf)
+**Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips.** [📄](https://liyix.github.io/images/aamas24.pdf)
 
 **Yixuan Li**, Wanyuan Wang*, Weiyi Xu, Yanchen Deng, Weiwei Wu.
 
@@ -44,7 +44,7 @@ Proceedings of the 23rd International Conference on Autonomous Agents and Multia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MSN 2023</div><img src='images/msn23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-2. **Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.** [📄](https://liyix.github.io/images/msn23.pdf)
+**Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.** [📄](https://liyix.github.io/images/msn23.pdf)
 
 Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang.
 
