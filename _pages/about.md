@@ -69,7 +69,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 
 - **A Method for Fault Root Cause Localization Based on Network Topology and Real-Time Alarms.**  
   Kang Xu, **Yixuan Li**, Haiqi Liu, Xiaowei Zhang, Ning Ye, Ruchuan Wang.  
-  China Patent No. CN112181758B, Granted on 2023.
+  China Invention Patent No. CN112181758B, Granted on 2023.
 
 # 🎖 Honors and Awards
 - *2023.11* Southeast University, Scholarship. 
