@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Artificial Intelligence, Operation Research and Reinforcement Learning. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/).
+Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Artificial Intelligence, Operation Research and Reinforcement Learning. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/). Here is my CV and chinese version.
 
 
 # 🔥 News
@@ -72,8 +72,14 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   China Patent No. CN112181758B, Granted on 2023.
 
 # 🎖 Honors and Awards
-- *2023.11* Southeast University, Second Prize Scholarship. 
-- *2023.07* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* Southeast University, Scholarship. 
+- *2023.07* Huawei Spark Award, Major Contributor.
+- *2023.01* China Graduate Mathematical Contest in Modeling, National Third Prize
+- *2022.11* Southeast University, Scholarship
+- *2022.04* Alibaba Cloud Panjiu Intelligent Algorithm Competition, Global Top 3%
+- *2021.11* "Challenge Cup" Academic Science and Technology Competition, National First Prize
+- *2020.12* Nanjing University of Posts and Telecommunications, Scholarship
+- *2020.10* "Yuezuan Cup" Software Design Competition, Third Prize
 
 # 📖 Educations
 - *2022.06 - now*, [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/). 
