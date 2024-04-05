@@ -414,11 +414,11 @@
 
 /* 自定义超链接样式 */
 a {
-    color: #007bff; /* 链接颜色 */
+    color: #800080; /* 链接颜色 */
     text-decoration: none !important; /* 去除下划线 */
     
     &:hover {
-        text-decoration: underline; /* 鼠标悬停时添加下划线 */
-        color: #0056b3; /* 鼠标悬停时的链接颜色 */
+        text-decoration: underline !important; /* 鼠标悬停时添加下划线 */
+        color: #800080; /* 鼠标悬停时的链接颜色 */
     }
 }
