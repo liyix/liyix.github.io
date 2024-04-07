@@ -35,8 +35,8 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 
 Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems ([AAMAS’24](https://www.aamas2024-conference.auckland.ac.nz/)).
 
-- For the global path planning problem, designed a novel modeling approach: the Path-Query Factor Graph;
-- leveraged the properties of the problem to propose a hybrid pruning technique for the Max-Sum algorithm;
+- Designed a novel modeling approach: the Path-Query Factor Graph for the global path planning problem;
+- Proposed a hybrid pruning technique to accelerate the Max-Sum algorithm in different traffic conditions;
 - developed an end-to-end, real-time response framework based on the factor graph neural networks. 
 </div>
 </div>
