@@ -88,17 +88,18 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 # 📈 Projects
 - *2023.01 - 2023.07*, **Accelerating Large-Scale Supply Chain Problem Solving**  
   *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
-  - As the only student member in the team, developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predited interges and identified active constraints to reduce the number of redundant constraints for rapid solution.
+  - Developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predited interges and identified active constraints to reduce the number of redundant constraints for rapid solution.
   - Reduced solution times to milliseconds on Huawei's supply chain scheduling instances while ensuring 99% fidelity.
   - By integrating the solver's warm start technology, achieved over ten times speed improvement on average compared to CPLEX under the same solution gap, winning the Huawei Spark Award - Value Prize.
 - *2022.09 - 2022.12*, **Optimization of Data Center Cooling System**  
   *[China Mobile](https://10086.cn/) Communications Group Co.,Ltd, Wuxi, China*
-  - Designed a DRL-based control algorithm for data center cooling systems. Trained a thermodynamic model of the cooling system using GNN and employed DDPG combined with imitation learning to train cooling system control strategies.
-  - Tests showed a total power usage effectiveness (PUE) reduction of 35% compared to the original scheme, successfully deployed at the China Mobile Wuxi Data Center.
+  - Trained a thermodynamic model of the cooling system using GNN and the relationship of the units.
+  - Designed a DRL-based control algorithm for data center cooling systems by DDPG combined with imitation learning.
+  - Test results showed a total power usage effectiveness (PUE) reduction of 35% compared to the original scheme, successfully deployed at the China Mobile Wuxi Data Center.
 - *2020.06 - 2022.06*, **Anomaly Detection and Root Cause Localization in Intelligent Operations**  
   *State Key Laboratory of Smart Grid Protection and Operation Control, [NARI](http://www.sgepri.sgcc.com.cn/) Group, Nanjing, China*
   - Designed a suite of anomaly detection algorithms based on statistical modeling, machine learning, and deep learning for multivariate time series anomaly detection. Techniques applied include GNN, Transformer, GAN, Mask, etc.
-  - Contributed to two papers and one patent, with both papers being accepted by SCI-JCR Q2 journals.
+  - Contributed to two papers and one patent, with both papers accepted by SCI-JCR Q2 journals.
 
 # 💻 Internships
 - *2024.05 - 2024.05*, , China.
