@@ -22,7 +22,7 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 
 # 🔥 News
 - *2023.11*: &nbsp;🎉🎉 One [paper](https://liyix.github.io/images/aamas24.pdf) accepted by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/accepted/papers/) as a full paper. 
-- *2023.07*: &nbsp;🎉🎉 We win [Huawei Spark Award](https://www.chaspark.com/#/questions/sparks/900903102629404672) for [Challenging Problems](https://www.chaspark.com/#/questions/820504253384495104?sub=820506234689818624)! 
+- *2023.07*: &nbsp;🎉🎉 We win [Huawei Spark Award - Value Prize](https://www.chaspark.com/#/questions/sparks/900903102629404672) for [Challenging Problems](https://www.chaspark.com/#/questions/820504253384495104?sub=820506234689818624)! 
 
 # 📝 Publications 
 
@@ -73,7 +73,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 
 # 🎖 Honors and Awards
 - *2023.11* Southeast University, Scholarship. 
-- *2023.07* Huawei Spark Award, Major Contributor.
+- *2023.07* Huawei Spark Award - Value Prize, Major Contributor.
 - *2023.01* China Graduate Mathematical Contest in Modeling, National Third Prize
 - *2022.11* Southeast University, Scholarship
 - *2022.04* Alibaba Cloud Panjiu Intelligent Algorithm Competition, Global Top 3%
@@ -88,8 +88,8 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 # 📈 Projects
 - *2023.01 - 2023.07*, **Accelerating Large-Scale Supply Chain Problem Solving**  
   *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
-  - Developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predited interges and identified active constraints to reduce the number of redundant constraints for rapid solution.
-  - Reduced solution times to milliseconds on Huawei's supply chain scheduling instances while ensuring 99% fidelity.
+  - Developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predicted integers and identified active constraints to reduce the number of redundant constraints for a rapid solution.
+  - Reduced solution time to milliseconds on Huawei's supply chain scheduling instances while ensuring 99% fidelity.
   - By integrating the solver's warm start technology, achieved over ten times speed improvement on average compared to CPLEX under the same solution gap, winning the Huawei Spark Award - Value Prize.
 - *2022.09 - 2022.12*, **Optimization of Data Center Cooling System**  
   *[China Mobile](https://10086.cn/) Communications Group Co.,Ltd, Wuxi, China*
