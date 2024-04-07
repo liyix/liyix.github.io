@@ -1,4 +1,4 @@
-![image](https://github.com/liyix/liyix.github.io/assets/48178904/6d6616d5-2959-406c-a919-2df44bcf6588)---
+---
 permalink: /
 title: ""
 excerpt: ""
