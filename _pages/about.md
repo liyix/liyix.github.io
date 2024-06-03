@@ -102,7 +102,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   - Contributed to two papers and one patent, with both papers accepted by SCI-JCR Q2 journals.
 
 # 💻 Internships
-- *2024.05 - 2024.05*, , China.
+- *2024.07 (upcoming)*, Noah’s Ark Lab, Huawei Technologies, Shenzhen, China.
 
 # ⚽ Personality and Interests
 - Enjoy teamwork!
