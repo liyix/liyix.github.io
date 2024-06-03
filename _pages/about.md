@@ -29,7 +29,7 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2024</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips.** [📄](https://liyix.github.io/images/aamas24.pdf)
+**Factor Graph Neural Network Meets Max-Sum: A Real-Time Route Planning Algorithm for Massive-Scale Trips.** [📄paper](https://liyix.github.io/images/aamas24.pdf) [📹slides](https://liyix.github.io/images/AAMAS_presentation.pdf) [📌poster](https://liyix.github.io/images/AAMAS_Poster.pdf)
 
 **Yixuan Li**, Wanyuan Wang*, Weiyi Xu, Yanchen Deng, Weiwei Wu.
 
@@ -44,7 +44,7 @@ Proceedings of the 23rd International Conference on Autonomous Agents and Multia
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MSN 2023</div><img src='images/msn23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.** [📄](https://liyix.github.io/images/msn23.pdf)
+**Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.** [📄paper](https://liyix.github.io/images/msn23.pdf)
 
 Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang.
 
@@ -85,7 +85,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 - *2022.06 - now*, [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/). 
 - *2018.09 - 2022.06*, [Department of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). 
 
-# 📈 Projects
+# 💼 Projects
 - *2023.01 - 2023.07*, **Accelerating Large-Scale Supply Chain Problem Solving**  
   *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
   - Developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predicted integers and identified active constraints to reduce the number of redundant constraints for a rapid solution.
