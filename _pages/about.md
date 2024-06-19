@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Artificial Intelligence, Reinforcement Learning, Operation Research and Multi-Agent Systems. My research outputs now include 5 publications accepted, 2 pending submissions, and one granted patent. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/). Here is my [CV in english](https://liyix.github.io/images/Yixuan_Li_CV.pdf) and the [chinese version](https://liyix.github.io/images/Chinese%20Version.pdf). Contact me through [yixuanli@seu.edu.cn](mailto:yixuanli@seu.edu.cn).
+Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Artificial Intelligence, Reinforcement Learning, Operation Research and Multi-Agent Systems. My research outputs now include 5 publications accepted, 2 work in progress, and one granted patent. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/). Here is my [CV in english](https://liyix.github.io/images/Yixuan_Li_CV.pdf) and the [chinese version](https://liyix.github.io/images/Chinese%20Version.pdf). Contact me through [yixuanli@seu.edu.cn](mailto:yixuanli@seu.edu.cn).
 
 
 # 🔥 News
@@ -86,17 +86,22 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 - *2018.09 - 2022.06*, [Department of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). 
 
 # 💼 Projects
-- *2023.01 - 2023.07*, **Accelerating Large-Scale Supply Chain Problem Solving**  
+- *2023.01 - 2025.06*, **Accelerating Large-Scale Supply Chain Problem Solving**  
   *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
-  - Developed a solver acceleration method based on problem reduction for large-scale (integer) linear programming, predicted integers and identified active constraints to reduce the number of redundant constraints for a rapid solution.
+  - Developed a solver acceleration method based on parsimonious model for large-scale (integer) linear programming, predicted integers and identified active constraints to reduce the number of redundant constraints for a rapid solution.
   - Reduced solution time to milliseconds on Huawei's supply chain scheduling instances while ensuring 99% fidelity.
   - By integrating the solver's warm start technology, achieved over ten times speed improvement on average compared to CPLEX under the same solution gap, winning the Huawei Spark Award - Value Prize.
-- *2022.09 - 2022.12*, **Optimization of Data Center Cooling System**  
+- *2022.09 - 2023.12*, **DRL Based Data Center Cooling System Optimization**  
   *[China Mobile](https://10086.cn/) Communications Group Co.,Ltd, Wuxi, China*
   - Trained a thermodynamic model of the cooling system using GNN and the relationship of the units.
   - Designed a DRL-based control algorithm for data center cooling systems by DDPG combined with imitation learning.
   - Test results showed a total power usage effectiveness (PUE) reduction of 35% compared to the original scheme, successfully deployed at the China Mobile Wuxi Data Center.
-- *2020.06 - 2022.06*, **Anomaly Detection and Root Cause Localization in Intelligent Operations**  
+- *2020.03 - 2020.09*, **Multi-Agent Coordinated RL Based Traffic Signal Control**  
+  *China Computer Federation (CCF) and [Tencent](https://ur.tencent.com/en/), Nanjing, China*
+  - Established a value function between agents to explicitly quantify the impact of neighbours.
+  - Utilized a message-passing algorithm based on relational collaboration graphs for decision making.
+  - Designed an efficient Shapley value decomposition reward function based on local interaction structures to promote cooperation. Published three EI-indexed conference papers as the first author.
+- *2020.01 - 2022.06*, **Anomaly Detection and Root Cause Localization in Intelligent Operations**  
   *State Key Laboratory of Smart Grid Protection and Operation Control, [NARI](http://www.sgepri.sgcc.com.cn/) Group, Nanjing, China*
   - Designed a suite of anomaly detection algorithms based on statistical modeling, machine learning, and deep learning for multivariate time series anomaly detection. Techniques applied include GNN, Transformer, GAN, Mask, etc.
   - Contributed to two papers and one patent, with both papers accepted by SCI-JCR Q2 journals.
