@@ -33,11 +33,25 @@ Hey there! I am Yixuan, a second-year graduate student at [Department of Compute
 
 **Yixuan Li**, Wanyuan Wang*, Weiyi Xu, Yanchen Deng, Weiwei Wu.
 
-Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems ([AAMAS’24](https://www.aamas2024-conference.auckland.ac.nz/)).
+Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems ([AAMAS’24](https://www.aamas2024-conference.auckland.ac.nz/),CORE Rank A*/CCF B).
 
 - Designed a novel modeling approach: the Path-Query Factor Graph for the global path planning problem;
 - Proposed a hybrid pruning technique to accelerate the Max-Sum algorithm in different traffic conditions;
 - developed an end-to-end, real-time response framework based on the factor graph neural networks. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TST</div><img src='images/TST.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Multiagent Reinforcement Learning-Based Flow Splitting for Network Packet Routing.** [📄paper](https://liyix.github.io/images/TST.pdf)
+
+Qian Che†, **Yixuan Li†**, Yijing Wang*, Haoran Chen, Wanyuan Wang, Weiwei Wu*.
+
+Tsinghua Science and Technology ([TST](https://www.sciopen.com/journal/1007-0214?stage=1),SCI-Q1, Impact Factor:5.2).
+
+- Developed a novel multiagent modeling approach by representing traffic demand as agents;
+- Designed an attention-based pointer network to enhance feature extraction. 
 </div>
 </div>
 
@@ -48,7 +62,7 @@ Proceedings of the 23rd International Conference on Autonomous Agents and Multia
 
 Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang.
 
-Proceedings of the 19th International Conference on Mobility, Sensing and Networking ([MSN'23](https://ieee-msn.org/2023/)).
+Proceedings of the 19th International Conference on Mobility, Sensing and Networking ([MSN'23](https://ieee-msn.org/2023/),CCF C).
 
 - Improved the distributed tree search algorithm by upstream planning to automatic extract sub-goals;
 - Introduced an expectation alignment technique to extend the algorithm to non-communication scenarios.
@@ -74,14 +88,17 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 </div>
 
 - **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.** [📄paper](https://liyix.github.io/images/Shapley.pdf) 
-  **Yixuan Li**, Jiajun Li, Xiao Liu, Weiwei Wu, Wanyuan Wang*.  
+
+  **Yixuan Li†**, Jiajun Li†, Xiao Liu, Weiwei Wu, Wanyuan Wang*.  
   *Under Review.*
 
 - **Multiagent Reinforcement Learning Method based on Structural Coordination.**  
+
   **Yixuan Li**, Yi Huang, Junlan Feng, Chao Deng, Chunyu Liu, Vincent Chau, Wanyuan Wang*.  
   *Under Review.*
 
 - **MicLog: Log Parsing with Meta In-Context Learning.**  
+
   Jianbo Yu, **Yixuan Li**, Hai Xu, zhijing Li, Kang Xu, Wanyuan Wang*.  
   *Under Review.*
   
