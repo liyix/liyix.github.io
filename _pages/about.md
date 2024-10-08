@@ -55,21 +55,36 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 </div>
 </div>
   
-- **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
-  **Yixuan Li**, Qian Che, Fengchen Wang, Yifeng Zhou, Chuanyou Li, Wanyuan Wang*  
-  The 6th IEEE International Conference on Unmanned Systems (ICUS'23).  
-
-- **Explicit Coordination Based Multi-Agent Reinforcement Learning for Intelligent Traffic Signal Control.**  
-  **Yixuan Li**, Qian Che, Yifeng Zhou, Wanyuan Wang*, Yichuan Jiang.  
-  The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
-
-- **A Multi-agent Based Method for Large-Scale Route Planning Using Distributed Constraint Optimization.**  
-  **Yixuan Li**, Qian Che, Fengchen Wang, Huiying Zhang, Wanyuan Wang*, Yichuan Jiang.   
-  The 18th CCF Conference on Computer Supported Cooperative Work and Social Computing (ChineseCSCW).  
-
 - **A Method for Fault Root Cause Localization Based on Network Topology and Real-Time Alarms.**  
   Kang Xu, **Yixuan Li**, Haiqi Liu, Xiaowei Zhang, Ning Ye, Ruchuan Wang.  
   China Invention Patent No. CN112181758B, Granted on 2023.
+
+# 📝 Preprint 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction.** [📄paper](https://liyix.github.io/images/aamas24.pdf) [📹slides](https://liyix.github.io/images/AAMAS_presentation.pdf) [📌poster](https://liyix.github.io/images/AAMAS_Poster.pdf)
+
+**Yixuan Li**, Can Chen, Jiajun Li, Jiahui Duan, Xiongwei Han, Tao zhong, Vincent Chau, Weiwei Wu, Wanyuan Wang*. 
+
+- Designed an interpretable model parsimonious strategy and a strategy pruning method for MIP;
+- Designed an efficient solving method through preference-based reinforcement learning. 
+</div>
+</div>
+
+- **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.**  
+  **Yixuan Li**, Jiajun Li, Xiao Liu, Weiwei Wu, Wanyuan Wang*.  
+  *Under Review.*
+
+- **Multiagent Reinforcement Learning Method based on Structural Coordination.**  
+  **Yixuan Li**, Yi Huang, Junlan Feng, Chao Deng, Chunyu Liu, Vincent Chau, Wanyuan Wang*.  
+  *Under Review.*
+
+- **MicLog: Log Parsing with Meta In-Context Learning.**  
+  Jianbo Yu, **Yixuan Li**, Hai Xu, zhijing Li, Kang Xu, Wanyuan Wang*.  
+  *Under Review.*
+  
 
 # 🎖 Honors and Awards
 - *2023.11* Southeast University, Scholarship. 
@@ -97,18 +112,18 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   - Designed a DRL-based control algorithm for data center cooling systems by DDPG combined with imitation learning.
   - Test results showed a total power usage effectiveness (PUE) reduction of 35% compared to the original scheme, successfully deployed at the China Mobile Wuxi Data Center.
 - *2020.03 - 2020.09*, **Multi-Agent Coordinated RL Based Traffic Signal Control**  
-  *China Computer Federation (CCF) and [Tencent](https://ur.tencent.com/en/), Nanjing, China*
+  *China Computer Federation (CCF)-Tencent Fund, Nanjing, China*
   - Established a value function between agents to explicitly quantify the impact of neighbours.
   - Utilized a message-passing algorithm based on relational collaboration graphs for decision making.
-  - Designed an efficient Shapley value decomposition reward function based on local interaction structures to promote cooperation. Published three EI-indexed conference papers as the first author.
+  - Designed an efficient Shapley value decomposition reward function based on local interaction structures to promote cooperation. Contributed to three EI-indexed conference papers.
 - *2020.01 - 2022.06*, **Anomaly Detection and Root Cause Localization in Intelligent Operations**  
   *State Key Laboratory of Smart Grid Protection and Operation Control, [NARI](http://www.sgepri.sgcc.com.cn/) Group, Nanjing, China*
   - Designed a suite of anomaly detection algorithms based on statistical modeling, machine learning, and deep learning for multivariate time series anomaly detection. Techniques applied include GNN, Transformer, GAN, Mask, etc.
-  - Contributed to two papers and one patent, with both papers accepted by SCI-JCR Q2 journals.
+  - Contributed to two papers and one patent, with both papers accepted by SCI-JCR Q2/Q3 journals.
 
 # 💻 Internships
-- *2024.07 (upcoming)*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
+- *2024.08 -*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
 
 # ⚽ Personality and Interests
 - Enjoy teamwork!
-- Love music and football, my favorite band is The Stone Roses.
+- Love music and football.
