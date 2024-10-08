@@ -59,7 +59,7 @@ Tsinghua Science and Technology ([TST](https://www.sciopen.com/journal/1007-0214
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MSN 2023</div><img src='images/msn23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication.** [📄paper](https://liyix.github.io/images/msn23.pdf)
+**[Decentralized Subgoal Tree Search for Multi-agent Planning without Priors or Communication](https://ieeexplore.ieee.org/abstract/document/10566902).** [📄paper](https://liyix.github.io/images/msn23.pdf)
 
 Qian Che, **Yixuan Li**, Ziyao Peng, Wanyuan Wang*, Yichuan Jiang.
 
