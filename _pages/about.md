@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Artificial Intelligence, Reinforcement Learning, Operation Research and Multi-Agent Systems. My research outputs now include 5 publications accepted, 2 work in progress, and one granted patent. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/). Here is my [CV in english](https://liyix.github.io/images/Yixuan_Li_CV.pdf) and the [chinese version](https://liyix.github.io/images/Chinese%20Version.pdf). Contact me through [yixuanli@seu.edu.cn](mailto:yixuanli@seu.edu.cn).
+Hey there! I am Yixuan, a second-year graduate student at [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/), advisored by Prof. [Wanyuan Wang](https://wanyuanwang.github.io/). My research interest lies in Reinforcement Learning, Operation Research and Multi-Agent Systems. Previously, I obtained my bachelor’s degrees in [Computer Science](https://cs.njupt.edu.cn/) from [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/) in 2022, fortunately working with Dr. [Kang Xu](https://xk57238890.github.io/). Contact me through [yixuanli@seu.edu.cn](mailto:yixuanli@seu.edu.cn).
+
 
 
 # 🔥 News
@@ -143,6 +144,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 
 # 💻 Internships
 - *2024.08 -*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
+  Advisored by Jiahui Duan and Xiongwei Han, I am deeply grateful to collaborate with them and receive their guidance.
 
 # ⚽ Personality and Interests
 - Enjoy teamwork!
