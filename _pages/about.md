@@ -89,17 +89,20 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 
 - **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.** [📄paper](https://liyix.github.io/images/Shapley.pdf) 
 
-  **Yixuan Li†**, Jiajun Li†, Xiao Liu, Weiwei Wu, Wanyuan Wang*.  
+  **Yixuan Li†**, Jiajun Li†, Xiao Liu, Weiwei Wu, Wanyuan Wang*.
+  
   *Under Review.*
 
 - **Multiagent Reinforcement Learning Method based on Structural Coordination.**  
 
-  **Yixuan Li**, Yi Huang, Junlan Feng, Chao Deng, Chunyu Liu, Vincent Chau, Wanyuan Wang*.  
+  **Yixuan Li**, Yi Huang, Junlan Feng, Chao Deng, Chunyu Liu, Vincent Chau, Wanyuan Wang*.
+  
   *Under Review.*
 
 - **MicLog: Log Parsing with Meta In-Context Learning.**  
 
-  Jianbo Yu, **Yixuan Li**, Hai Xu, zhijing Li, Kang Xu, Wanyuan Wang*.  
+  Jianbo Yu, **Yixuan Li**, Hai Xu, zhijing Li, Kang Xu, Wanyuan Wang*.
+  
   *Under Review.*
   
 
@@ -118,7 +121,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 - *2018.09 - 2022.06*, [Department of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). 
 
 # 💼 Projects
-- *2023.01 - 2025.06*, **Accelerating Large-Scale Supply Chain Problem Solving**  
+- *2023.01 - 2025.06*, **Data and Knowledge-Driven Optimization Problem Strategies**  
   *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
   - Developed a solver acceleration method based on parsimonious model for large-scale (integer) linear programming, predicted integers and identified active constraints to reduce the number of redundant constraints for a rapid solution.
   - Reduced solution time to milliseconds on Huawei's supply chain scheduling instances while ensuring 99% fidelity.
