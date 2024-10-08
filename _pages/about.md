@@ -143,7 +143,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   - Contributed to two papers and one patent, with both papers accepted by SCI-JCR Q2/Q3 journals.
 
 # 💻 Internships
-- *2024.08 -*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
+- *2024.08 -2025.01*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
   Advisored by Jiahui Duan and Xiongwei Han, I am deeply grateful to collaborate with them and receive their guidance.
 
 # ⚽ Personality and Interests
