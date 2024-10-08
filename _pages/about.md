@@ -61,10 +61,10 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 
 # 📝 Preprint 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction.** [📄paper](https://liyix.github.io/images/aamas24.pdf) [📹slides](https://liyix.github.io/images/AAMAS_presentation.pdf) [📌poster](https://liyix.github.io/images/AAMAS_Poster.pdf)
+**Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction.** [📄paper](https://liyix.github.io/images/MILP.pdf) [📹slides](https://liyix.github.io/images/MILP_share.pdf) [📌poster](https://liyix.github.io/images/MILP_poster.pdf)
 
 **Yixuan Li**, Can Chen, Jiajun Li, Jiahui Duan, Xiongwei Han, Tao zhong, Vincent Chau, Weiwei Wu, Wanyuan Wang*. 
 
@@ -73,7 +73,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 </div>
 </div>
 
-- **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.**  
+- **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.** [📄paper](https://liyix.github.io/images/Shapley.pdf) 
   **Yixuan Li**, Jiajun Li, Xiao Liu, Weiwei Wu, Wanyuan Wang*.  
   *Under Review.*
 
