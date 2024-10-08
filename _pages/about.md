@@ -121,30 +121,24 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 - *2022.06 - now*, [Department of Computer Science and Engineering](https://cs.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/). 
 - *2018.09 - 2022.06*, [Department of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). 
 
-# 💼 Projects
-- *2023.01 - 2025.06*, **Data and Knowledge-Driven Optimization Problem Strategies**  
-  *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
-  - Developed a solver acceleration method based on parsimonious model for large-scale (integer) linear programming, predicted integers and identified active constraints to reduce the number of redundant constraints for a rapid solution.
-  - Reduced solution time to milliseconds on Huawei's supply chain scheduling instances while ensuring 99% fidelity.
-  - By integrating the solver's warm start technology, achieved over ten times speed improvement on average compared to CPLEX under the same solution gap, winning the Huawei Spark Award - Value Prize.
-- *2022.09 - 2023.12*, **DRL Based Data Center Cooling System Optimization**  
-  *[China Mobile](https://10086.cn/) Communications Group Co.,Ltd, Wuxi, China*
-  - Trained a thermodynamic model of the cooling system using GNN and the relationship of the units.
-  - Designed a DRL-based control algorithm for data center cooling systems by DDPG combined with imitation learning.
-  - Test results showed a total power usage effectiveness (PUE) reduction of 35% compared to the original scheme, successfully deployed at the China Mobile Wuxi Data Center.
-- *2020.03 - 2020.09*, **Multi-Agent Coordinated RL Based Traffic Signal Control**  
-  *China Computer Federation (CCF)-Tencent Fund, Nanjing, China*
-  - Established a value function between agents to explicitly quantify the impact of neighbours.
-  - Utilized a message-passing algorithm based on relational collaboration graphs for decision making.
-  - Designed an efficient Shapley value decomposition reward function based on local interaction structures to promote cooperation. Contributed to three EI-indexed conference papers.
-- *2020.01 - 2022.06*, **Anomaly Detection and Root Cause Localization in Intelligent Operations**  
-  *State Key Laboratory of Smart Grid Protection and Operation Control, [NARI](http://www.sgepri.sgcc.com.cn/) Group, Nanjing, China*
-  - Designed a suite of anomaly detection algorithms based on statistical modeling, machine learning, and deep learning for multivariate time series anomaly detection. Techniques applied include GNN, Transformer, GAN, Mask, etc.
-  - Contributed to two papers and one patent, with both papers accepted by SCI-JCR Q2/Q3 journals.
-
 # 💻 Internships
 - *2024.08 -2025.01*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
   Advisored by Jiahui Duan and Xiongwei Han, I am deeply grateful to collaborate with them and receive their guidance.
+
+# 💼 Projects
+- *2023.01 - 2025.06*, **Data and Knowledge-Driven Optimization Problem Strategies**  
+  *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
+
+- *2022.09 - 2023.12*, **DRL Based Data Center Cooling System Optimization**  
+  *[China Mobile](https://10086.cn/) Communications Group Co.,Ltd, Wuxi, China*
+
+- *2020.03 - 2020.09*, **Multi-Agent Coordinated RL Based Traffic Signal Control**  
+  *China Computer Federation (CCF)-Tencent Fund, Nanjing, China*
+
+- *2020.01 - 2022.06*, **Anomaly Detection and Root Cause Localization in Intelligent Operations**  
+  *State Key Laboratory of Smart Grid Protection and Operation Control, [NARI](http://www.sgepri.sgcc.com.cn/) Group, Nanjing, China*
+
+
 
 # ⚽ Personality and Interests
 - Enjoy teamwork!
