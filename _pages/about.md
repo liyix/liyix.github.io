@@ -74,7 +74,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   Kang Xu, **Yixuan Li**, Haiqi Liu, Xiaowei Zhang, Ning Ye, Ruchuan Wang.  
   China Invention Patent No. CN112181758B, Granted on 2023.
 
-# 📝 Preprint 
+# 📝 Preprint and Submitted
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
