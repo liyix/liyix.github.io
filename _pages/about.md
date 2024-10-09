@@ -122,7 +122,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 - *2018.09 - 2022.06*, [Department of Computer Science](https://cs.njupt.edu.cn/), [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/). 
 
 # 💻 Internships
-- *2024.08 -2025.01*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
+- *2024.08 - now*, [Noah’s Ark Lab](https://www.noahlab.com.hk/#/home), Huawei Technologies, Shenzhen, China.
   Advisored by Jiahui Duan and Xiongwei Han, I am deeply grateful to collaborate with them and receive their guidance.
 
 # 💼 Projects
