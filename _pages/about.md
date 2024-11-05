@@ -105,6 +105,12 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   Jianbo Yu, **Yixuan Li**, Hai Xu, zhijing Li, Kang Xu, Wanyuan Wang*.
   
   *Under Review.*
+
+- **FluencyVE: Marrying Temporal-Aware Mamba with Agent Attention for Video Editing.**  
+
+  Mingshu Cai, **Yixuan Li**, Osamu Yoshie*, Yuya Ieiri.
+  
+  *Under Review.*
   
 
 # 🎖 Honors and Awards
