@@ -129,10 +129,10 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 - *2023.01 - 2025.06*, **Data and Knowledge-Driven Optimization Problem Strategies**  
   *[Huawei](https://www.huawei.com/) Technologies Co., Ltd., Shenzhen, China*
 
-- *2022.09 - 2023.12*, **DRL Based Data Center Cooling System Optimization**  
+- *2022.09 - 2022.12*, **DRL Based Data Center Cooling System Optimization**  
   *[China Mobile](https://10086.cn/) Communications Group Co.,Ltd, Wuxi, China*
 
-- *2020.03 - 2020.09*, **Multi-Agent Coordinated RL Based Traffic Signal Control**  
+- *2022.04 - 2022.09*, **Multi-Agent Coordinated RL Based Traffic Signal Control**  
   *China Computer Federation (CCF)-Tencent Fund, Nanjing, China*
 
 - *2020.01 - 2022.06*, **Anomaly Detection and Root Cause Localization in Intelligent Operations**  
