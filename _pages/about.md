@@ -114,13 +114,15 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   
 
 # 🎖 Honors and Awards
-- *2023.11* Southeast University, Scholarship. 
+- *2024.11* China National Scholarship, by Ministry of Education of China
+- *2024.10* Scholarship by Southeast University
+- *2023.11* Scholarship by Southeast University
 - *2023.07* Huawei Spark Award - Value Prize, Major Contributor.
 - *2023.01* China Graduate Mathematical Contest in Modeling, National Third Prize
-- *2022.11* Southeast University, Scholarship
+- *2022.11* Scholarship by Southeast University
 - *2022.04* Alibaba Cloud Panjiu Intelligent Algorithm Competition, Global Top 3%
 - *2021.11* "Challenge Cup" Academic Science and Technology Competition, National First Prize
-- *2020.12* Nanjing University of Posts and Telecommunications, Scholarship
+- *2020.12* Scholarship by Nanjing University of Posts and Telecommunications
 - *2020.10* "Yuezuan Cup" Software Design Competition, Third Prize
 
 # 📖 Educations
