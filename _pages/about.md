@@ -27,6 +27,20 @@ Hey there! I am Yixuan, a third-year graduate student at [Department of Computer
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MILP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction.** [📄paper](https://liyix.github.io/images/MILP.pdf) [📹slides](https://liyix.github.io/images/MILP_share.pdf) [📌poster](https://liyix.github.io/images/MILP_poster.pdf)
+
+**Yixuan Li**, Can Chen, Jiajun Li, Jiahui Duan, Xiongwei Han, Tao zhong, Vincent Chau, Weiwei Wu, Wanyuan Wang*. 
+
+Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence ([AAAI’25](https://aaai.org/aaai-24-conference/save-the-date-aaai-25/),CORE Rank A*/CCF A).
+
+- Designed an interpretable model reduction strategy and a strategy pruning method for MILP;
+- Designed an efficient solving method through preference-based learning. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2024</div><img src='images/aamas24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -76,17 +90,12 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
 
 # 📝 Preprint and Submitted
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MILP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Multiagent Reinforcement Learning Method based on Structural Coordination.**  
 
-**Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction.** [📄paper](https://liyix.github.io/images/MILP.pdf) [📹slides](https://liyix.github.io/images/MILP_share.pdf) [📌poster](https://liyix.github.io/images/MILP_poster.pdf)
-
-**Yixuan Li**, Can Chen, Jiajun Li, Jiahui Duan, Xiongwei Han, Tao zhong, Vincent Chau, Weiwei Wu, Wanyuan Wang*. 
-
-- Designed an interpretable model parsimonious strategy and a strategy pruning method for MIP;
-- Designed an efficient solving method through preference-based reinforcement learning. 
-</div>
-</div>
+  **Yixuan Li**, Yi Huang, Junlan Feng, Chao Deng, Chunyu Liu, Vincent Chau, Wanyuan Wang*.
+  
+  *Recommended to an SCI Q1 journal.*
+  
 
 - **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.** [📄paper](https://liyix.github.io/images/Shapley.pdf) 
 
@@ -94,11 +103,6 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   
   *Under Review.*
 
-- **Multiagent Reinforcement Learning Method based on Structural Coordination.**  
-
-  **Yixuan Li**, Yi Huang, Junlan Feng, Chao Deng, Chunyu Liu, Vincent Chau, Wanyuan Wang*.
-  
-  *Under Review.*
 
 - **MicLog: Log Parsing with Meta In-Context Learning.**  
 
