@@ -22,12 +22,14 @@ Hey there! I am Yixuan, a third-year graduate student at [Department of Computer
 
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 One [paper](https://liyix.github.io/images/aamas24.pdf) accepted by [AAMAS'24](https://www.aamas2024-conference.auckland.ac.nz/accepted/papers/) as a full paper. 
+- *2024.12*: &nbsp;🎉🎉 One paper accepted by AAAI'25. 
+- *2024.11*: &nbsp;🎉🎉 Win the China National Scholarship, by Ministry of Education of China.
+- *2023.11*: &nbsp;🎉🎉 One paper accepted by AAMAS'24. 
 - *2023.07*: &nbsp;🎉🎉 We win [Huawei Spark Award - Value Prize](https://www.chaspark.com/#/questions/sparks/900903102629404672) for [Challenging Problems](https://www.chaspark.com/#/questions/820504253384495104?sub=820506234689818624)! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/MILP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/MILP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Fast and Interpretable Mixed-Integer Linear Program Solving by Learning Model Reduction.** [📄paper](https://liyix.github.io/images/MILP.pdf) [📹slides](https://liyix.github.io/images/MILP_share.pdf) [📌poster](https://liyix.github.io/images/MILP_poster.pdf)
