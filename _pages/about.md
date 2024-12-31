@@ -99,7 +99,7 @@ Proceedings of the 19th International Conference on Mobility, Sensing and Networ
   *Recommended to an SCI Q1 journal.*
   
 
-- **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.** [📄paper](https://liyix.github.io/images/Shapley.pdf) 
+- **Shapley Value-based Congestion Attribution: A Practical Multiagent Reinforcement Learning for Traffic Signal Control.**  
 
   **Yixuan Li†**, Jiajun Li†, Xiao Liu, Weiwei Wu, Wanyuan Wang*.
   
